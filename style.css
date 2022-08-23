@@ -1,3 +1,21 @@
+@font-face{
+    font-family: Aeonik;
+    src: url(Aeonik-Regular.ttf);
+    font-weight: 400;
+}
+
+@font-face{
+    font-family: Aeonik;
+    src: url(Aeonik-Medium.ttf);
+    font-weight: 500;
+}
+
+@font-face{
+    font-family: Aeonik;
+    src: url(Aeonik-Bold.ttf);
+    font-weight: 800;
+}
+
 *{
     margin: 0;
     padding: 0;
